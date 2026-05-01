@@ -8,7 +8,7 @@
 
 ## 📌 About
 
-This project investigates how major political and security crises affected tourism in Egypt over 25 years. Using real World Bank data, we measure the exact percentage drops, compare Egypt with its MENA neighbors, and use hypothesis testing to prove the drops are statistically significant.
+This project investigates how major political and security crises have affected tourism in Egypt over the past 25 years. Using real World Bank data, we measure the exact percentage drops, compare Egypt with its MENA neighbors, and use hypothesis testing to prove the drops are statistically significant.
 
 ## 👥 Team
 
@@ -22,7 +22,7 @@ This project investigates how major political and security crises affected touri
 ## 📂 Project Structure
 
 ```
-ready to submit Project/
+Global Tourism Crisis in Egypt/
 ├── Global_Tourism_Crisis_Analysis.ipynb   # Main notebook (code + analysis)
 ├── Final_Report.docx                      # Final report (professor template)
 ├── Final_Report.pdf                       # Final report (PDF version)

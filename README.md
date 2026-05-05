@@ -24,9 +24,10 @@ This project investigates how major political and security crises have affected 
 ```
 Global Tourism Crisis in Egypt/
 ├── Global_Tourism_Crisis_Analysis.ipynb   # Main notebook (code + analysis)
-├── Final_Report.docx                      # Final report (professor template)
-├── Final_Report.pdf                       # Final report (PDF version)
-└── Charts/                                # Exported chart images
+├── Demo Video                             # short video explaining the topic
+├── Final_Report.pdf                       # Final report
+├── Contribution Sheet.pdf                 # How we distributed the workload
+└── Charts/                                # chart images used in report
     ├── 1.chart.png                        # Crisis comparison bar chart
     ├── 2.chart.png                        # Tourism timeline (1995 to 2019)
     ├── 3.chart.png                        # MENA regional comparison
